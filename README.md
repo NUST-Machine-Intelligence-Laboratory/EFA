@@ -13,7 +13,7 @@ The architecture of our proposed model is as follows
 
 * Clone this repo
 ```
-git clone https://github.com/chentao2016/EFA.git
+git clone https://github.com/NUST-Machine-Intelligence-Laboratory/EFA.git
 
 ```
 ## Dataset
